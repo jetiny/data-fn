@@ -1,0 +1,19 @@
+{
+  "name": "dataFn",
+  "version": "1.0.0",
+  "description": "auto data bind for jquery and zepto",
+  "main": "dataFn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jetiny/dataFn"
+  },
+  "author": "jetiny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetiny/dataFn/issues"
+  },
+  "homepage": "https://github.com/jetiny/dataFn"
+}
