@@ -1,8 +1,8 @@
 {
-  "name": "dataFn",
+  "name": "data-fn",
   "main": "dataFn.js",
   "version": "1.0.0",
-  "homepage": "https://github.com/jetiny/dataFn",
+  "homepage": "https://github.com/jetiny/data-fn",
   "authors": [
     "jetiny <jetiny8@gmail.com>"
   ],
