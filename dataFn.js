@@ -14,4 +14,4 @@
 	$(function(){
 		$('[data-fn]').dataFn();
 	});
-});
+}());
